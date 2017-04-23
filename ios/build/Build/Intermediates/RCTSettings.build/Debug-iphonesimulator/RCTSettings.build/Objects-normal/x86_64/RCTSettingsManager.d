@@ -1,22 +1,22 @@
 dependencies: \
-  /Users/sky/workspace/auth/node_modules/react-native/Libraries/Settings/RCTSettingsManager.m \
-  /Users/sky/workspace/auth/node_modules/react-native/Libraries/Settings/RCTSettingsManager.h \
-  /Users/sky/workspace/auth/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
-  /Users/sky/workspace/auth/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
-  /Users/sky/workspace/auth/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
-  /Users/sky/workspace/auth/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
-  /Users/sky/workspace/auth/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
-  /Users/sky/workspace/auth/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
-  /Users/sky/workspace/auth/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
-  /Users/sky/workspace/auth/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
-  /Users/sky/workspace/auth/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
-  /Users/sky/workspace/auth/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
-  /Users/sky/workspace/auth/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
-  /Users/sky/workspace/auth/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
-  /Users/sky/workspace/auth/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
-  /Users/sky/workspace/auth/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
-  /Users/sky/workspace/auth/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
-  /Users/sky/workspace/auth/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
-  /Users/sky/workspace/auth/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
-  /Users/sky/workspace/auth/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
-  /Users/sky/workspace/auth/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h
+  /Users/sky/git/auth/node_modules/react-native/Libraries/Settings/RCTSettingsManager.m \
+  /Users/sky/git/auth/node_modules/react-native/Libraries/Settings/RCTSettingsManager.h \
+  /Users/sky/git/auth/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/sky/git/auth/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/sky/git/auth/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/sky/git/auth/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/sky/git/auth/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/sky/git/auth/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/sky/git/auth/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/sky/git/auth/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/sky/git/auth/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/sky/git/auth/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/sky/git/auth/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/sky/git/auth/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/sky/git/auth/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/sky/git/auth/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/sky/git/auth/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/sky/git/auth/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/sky/git/auth/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/sky/git/auth/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/sky/git/auth/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h

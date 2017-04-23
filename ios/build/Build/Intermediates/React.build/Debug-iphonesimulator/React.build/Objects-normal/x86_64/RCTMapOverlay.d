@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/sky/workspace/auth/node_modules/react-native/React/Views/RCTMapOverlay.m \
-  /Users/sky/workspace/auth/node_modules/react-native/React/Views/RCTMapOverlay.h
+  /Users/sky/git/auth/node_modules/react-native/React/Views/RCTMapOverlay.m \
+  /Users/sky/git/auth/node_modules/react-native/React/Views/RCTMapOverlay.h
